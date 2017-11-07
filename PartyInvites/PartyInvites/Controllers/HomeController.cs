@@ -12,16 +12,26 @@ namespace PartyInvites.Controllers
             ViewBag.Greeting = hour < 12 ? "Good Morning" : "Good Afternoon";
             return View("MyView");
         }
+
         [HttpGet]
         public ViewResult RsvpForm()
         {
             return View();
         }
+
         [HttpPost]
         public ViewResult RsvpForm(GuestResponse guestResponse)
         {
-            Repository.AddResponse(guestResponse);
-            return View("Thanks", guestResponse);
+            if (ModelState.IsValid)
+            {
+                Repository.AddResponse(guestResponse);
+                return View("Thanks", guestResponse);
+            }
+            else
+            {
+                // there is a validation error
+                return View();
+            }
         }
         public ViewResult ListResponses()
         {

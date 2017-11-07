@@ -9,3 +9,14 @@ C:\Users\gonza\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\Pa
 C:\Users\gonza\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
 C:\Users\gonza\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
 C:\Users\gonza\source\repos\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
