@@ -1,0 +1,11 @@
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\bin\Debug\netcoreapp2.0\Razor.deps.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.dev.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\bin\Debug\netcoreapp2.0\Razor.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\bin\Debug\netcoreapp2.0\Razor.pdb
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\05 - Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb
