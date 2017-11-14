@@ -35,6 +35,8 @@
 
             return new Product[] { kayak, lifejacket, null };
         }
+
+        
     }
 }
 
