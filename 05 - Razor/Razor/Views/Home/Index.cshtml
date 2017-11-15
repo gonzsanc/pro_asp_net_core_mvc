@@ -1,7 +1,9 @@
 ﻿@model Product
 @{
-    Layout = null;
+    Layout = "_BasicLayout";
+    ViewBag.Title = "Product Name";
 }
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -9,6 +11,6 @@
     <title>Index</title>
 </head>
 <body>
-    @Model.Name
+    Product Name: @Model.Name
 </body>
 </html>
