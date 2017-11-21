@@ -1,0 +1,11 @@
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\gonza\Documents\_GONZALO\pro_asp_net_core_mvc\08 - SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
